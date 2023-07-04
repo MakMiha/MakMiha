@@ -24,6 +24,9 @@
   <a href="http://t.me/mihailmakarow" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
+  <a href="https://gitlab.com/MakMiha" target="_blank">
+    <img src="https://docs.gitlab.com/assets/images/gitlab-logo-header.svg"/>
+  </a>
 </p>
 
 ## Github Stats 
